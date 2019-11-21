@@ -67,7 +67,7 @@ namespace miramar_cheers_1
                     this.Coren = dr.GetString(0);
                     this.Senha = dr.GetString(1);                   
                 }
-                return true;                
+                return true;
             }
             catch (Exception ex)
             {
