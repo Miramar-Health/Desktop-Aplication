@@ -1,0 +1,100 @@
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\bin\Debug\miramar cheers 1.exe.config
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\bin\Debug\miramar cheers 1.exe
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\bin\Debug\miramar cheers 1.pdb
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\bin\Debug\Google.Protobuf.dll
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\bin\Debug\MySql.Data.dll
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\bin\Debug\Renci.SshNet.dll
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\bin\Debug\Google.Protobuf.xml
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\bin\Debug\MySql.Data.xml
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\bin\Debug\Renci.SshNet.xml
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.Properties.Resources.resources
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.GenerateResource.cache
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.CoreCompileInputs.cache
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.CopyComplete
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.exe
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.pdb
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Buscar_formularios.resources
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Buscar_pacientes.resources
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Home.resources
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Listar_pacientes.resources
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Listar_tecnicos.resources
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Perfil.resources
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Validar_Tecnicos.resources
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.FrmLogin.resources
+C:\Users\paulo.hslima3\source\repos\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.csprojAssemblyReference.cache
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\bin\Debug\miramar cheers 1.exe.config
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\bin\Debug\miramar cheers 1.exe
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\bin\Debug\miramar cheers 1.pdb
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\bin\Debug\Google.Protobuf.dll
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\bin\Debug\MySql.Data.dll
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\bin\Debug\Renci.SshNet.dll
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\bin\Debug\Google.Protobuf.xml
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\bin\Debug\MySql.Data.xml
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\bin\Debug\Renci.SshNet.xml
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.csprojAssemblyReference.cache
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Buscar_formularios.resources
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Buscar_pacientes.resources
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Home.resources
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Listar_pacientes.resources
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Listar_tecnicos.resources
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.FrmLogin.resources
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Perfil.resources
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Validar_Tecnicos.resources
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar_cheers_1.Properties.Resources.resources
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.GenerateResource.cache
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.CopyComplete
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.exe
+C:\Users\paulo\Desktop\miramar cheers 1\miramar cheers 1\obj\Debug\miramar cheers 1.pdb
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\bin\Debug\miramar cheers 1.exe.config
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\bin\Debug\miramar cheers 1.exe
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\bin\Debug\miramar cheers 1.pdb
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\bin\Debug\Google.Protobuf.dll
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\bin\Debug\MySql.Data.dll
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\bin\Debug\Renci.SshNet.dll
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\bin\Debug\Google.Protobuf.xml
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\bin\Debug\MySql.Data.xml
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\bin\Debug\Renci.SshNet.xml
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.csprojAssemblyReference.cache
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Buscar_pacientes.resources
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Home.resources
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Listar_pacientes.resources
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Listar_tecnicos.resources
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Perfil.resources
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Validar_Tecnicos.resources
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.Properties.Resources.resources
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.GenerateResource.cache
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.CoreCompileInputs.cache
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.CopyComplete
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.exe
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.pdb
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\bin\Debug\miramar cheers 1.exe.config
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\bin\Debug\miramar cheers 1.exe
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\bin\Debug\miramar cheers 1.pdb
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\bin\Debug\Google.Protobuf.dll
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\bin\Debug\MySql.Data.dll
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\bin\Debug\Renci.SshNet.dll
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\bin\Debug\Google.Protobuf.xml
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\bin\Debug\MySql.Data.xml
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\bin\Debug\Renci.SshNet.xml
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Buscar_pacientes.resources
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Listar_pacientes.resources
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Listar_tecnicos.resources
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Perfil.resources
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Validar_Tecnicos.resources
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.Properties.Resources.resources
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.GenerateResource.cache
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.csproj.CopyComplete
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.exe
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.pdb
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Home.resources
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Login.resources
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar cheers 1.csprojAssemblyReference.cache
+C:\Users\paulo\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Splash.resources
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Login.resources
+C:\Users\paulo.hslima3\Desktop\miramar healf\miramar cheers 1\obj\Debug\miramar_cheers_1.formularios.Splash.resources

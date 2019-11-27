@@ -7,6 +7,7 @@ using MySql.Data.MySqlClient;
 
 namespace miramar_cheers_1.classes
 {
+     
     public class Tecnico
     {
         public int Id_Enfermeiro { get; set; }
@@ -28,12 +29,14 @@ namespace miramar_cheers_1.classes
 
         public string Celular { get; set; }
 
-
+        Banco db = new Banco();
 
         public Tecnico()
         {
 
         }
+
+
         public Tecnico(int _id_enfermeiro, int _id, string _nome, string _cpf, string _categoria, string _coren, string _email, string _senha, bool _situacao, string _instituicao, string _celular)
         {
             this.Id_Enfermeiro = _id_enfermeiro;
@@ -60,15 +63,38 @@ namespace miramar_cheers_1.classes
 
 
 
+
+        public void Buscar_Tecnico(int id)
+        {
+            var comm = db.Conectar();
+            comm.CommandType = System.Data.CommandType.Text;
+            comm.CommandText = "select * from tecnico where id_tecnico ="+id;
+            var dr = comm.ExecuteReader();
+            while (dr.Read())
+            {
+                this.Id = dr.GetInt32(0);
+                this.Nome = dr.GetString(1);
+                this.Email = dr.GetString(5);
+                this.Coren = dr.GetString(4);
+                this.Situacao = dr.GetBoolean(7);
+            }
+            comm.Connection.Close();
+        }
+
+
+
+
+
         public bool Validar_Tecnico()
         {
             bool alterado = false;
             try
             {
-                var comm = Banco.Abrir();
+                var comm = db.Conectar();
                 comm.CommandType = System.Data.CommandType.StoredProcedure;
-                comm.CommandText = "sp_vend_update";
-                comm.Parameters.Add("spsituacao", MySqlDbType.VarChar).Value = Situacao;
+                comm.CommandText = "validar_tecnico";
+                comm.Parameters.Add("situacao", MySqlDbType.Double).Value = Situacao;
+                comm.Parameters.Add("id", MySqlDbType.Int32).Value = Id;
                 comm.ExecuteNonQuery();
                 comm.Connection.Close();
                 alterado = true;
@@ -85,8 +111,8 @@ namespace miramar_cheers_1.classes
 
         public MySqlDataReader Listar_Tecnicos()
         {
-            var comm = Banco.Abrir();
-            comm.CommandText = "select * from Tecnicos";
+            var comm = db.Conectar();
+            comm.CommandText = "select * from tecnico";
             var dr = comm.ExecuteReader();
             return dr;
         }

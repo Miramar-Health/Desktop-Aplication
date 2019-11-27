@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
+using miramar_cheers_1.formularios;
+using miramar_cheers_1.classes;
 
 namespace miramar_cheers_1
 {
-    class Enfermeiro
+    public class Enfermeiro
     {
 
 
@@ -27,7 +29,7 @@ namespace miramar_cheers_1
 
         public string Instituicao { get; set;}
 
-
+        Banco db = new Banco();
 
         public Enfermeiro()
         {
@@ -55,30 +57,58 @@ namespace miramar_cheers_1
 
 
 
-        public bool Efetuar_Login(string _core,string _senha)
+        public bool Efetuar_Login(string coren, string senha)
         {
-            var comm = Banco.Abrir();
+            bool Result = false;
+            var comm = db.Conectar();
             try
             {
-                comm.CommandText = "select * from enfermeiro where coren = '" + _core + "' && senha = '" + _senha + "'";
+                comm.CommandType = System.Data.CommandType.Text;
+                comm.CommandText = "select * from enfermeiro where coren =" + coren+" && senha="+senha;
                 var dr = comm.ExecuteReader();
                 while (dr.Read())
                 {
-                    this.Coren = dr.GetString(0);
-                    this.Senha = dr.GetString(1);                   
+                    UserLoginCache.Nome_Tecnico= dr.GetString(1);
+                    UserLoginCache.Email_Tecnico = dr.GetString(5);
+                    UserLoginCache.Coren_Tecnico = dr.GetString(4);
+                    UserLoginCache.Situacao_Tecnico = dr.GetBoolean(7);
+                    Result = true;
                 }
-                return true;
+                
+
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                ex.Message.ToString();
-                return false;
-            }            
+            }
             finally
             {
                 comm.Connection.Close();
             }
+            {
+
+                return Result;
+            }
+
         }
+
+        public void Buscar_enfermeiro()
+        {
+
+
+            var comm = db.Conectar();
+            comm.CommandType = System.Data.CommandType.Text;
+            comm.CommandText = "select * from enfermeiro where coren =" + UserLoginCache.Coren_Tecnico;
+            var dr = comm.ExecuteReader();
+            while (dr.Read())
+            {
+                this.Nome = dr.GetString(1);
+                this.Email = dr.GetString(5);
+                this.Coren = dr.GetString(4);
+                this.Situacao = dr.GetBoolean(7);
+            }
+            comm.Connection.Close();
+        }
+
 
 
 
